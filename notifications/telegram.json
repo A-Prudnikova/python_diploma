@@ -1,7 +1,7 @@
 {
   "base": {
-    "project": "MUS project",
-    "environment": "some env",
+    "project": "Diploma project",
+    "environment": "web ui Chrome",
     "comment": "some comment",
     "reportLink": "",
     "language": "en",

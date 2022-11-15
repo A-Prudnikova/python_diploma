@@ -30,12 +30,7 @@ https://biganto.com/
 ![Allure reports overview](./files/report.jpg)
 ### Детальный отчет о прохождении конкретного теста
 ![Allure reports test](./files/report_with_screen.jpg)
-### Видео прохождения теста
-![Video](./files/video.gif.mp4)
 
-
-## Уведомление в Telegram
-![telegram](./files/TelegramBot.jpg)
 
 
 
